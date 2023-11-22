@@ -1,0 +1,21 @@
+git clone
+cd Test_akleeber_larbeith/
+git add larbeith.txt
+git commit
+nano README.md
+git add README.md
+git commit
+git push
+git pull
+nano README.md
+git add README.md
+git commit
+git push
+--FEHLER--
+git branch branch1
+git pull
+git merge
+nano README.md (Manuell bearbeitet)
+git branch -d branch1
+git add README.md
+git commit
