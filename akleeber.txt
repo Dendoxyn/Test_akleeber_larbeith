@@ -1,0 +1,12 @@
+git clone
+cd Test_akleeber_larbeith/
+git add akleeber.txt
+git commit akleeber.txt
+git pull
+git add README.md
+git commit README.md
+git push
+git add README.md akleeber.txt
+git commit README.md akleeber.txt
+git push
+git pull
