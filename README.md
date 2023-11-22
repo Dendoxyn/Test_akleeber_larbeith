@@ -10,3 +10,4 @@ git add
 git commit
 git checkout
 git branch (-d)
+git log
